@@ -33,6 +33,5 @@
 ## Contato
 📫 **Email:** lucas.oliv001@gmail.com 
 🔗 **LinkedIn:** [Lucas Vinicius](https://www.linkedin.com/in/lucasvinicius)  
-🌐 **Site Pessoal:** [www.lucasvinicius.dev](https://www.lucasvinicius.dev)
 
 ---

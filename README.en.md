@@ -19,9 +19,16 @@
 
 ## About
 
-Computer Science graduate working at the intersection of **Artificial Intelligence** and **Systems**. My work centers on building structures — frameworks, simulators, languages, and educational tools — that make complex concepts tangible and reusable.
+Computer Science graduate and **Software Architecture specialist (postgraduate)**, working at the intersection of **Artificial Intelligence** and **Systems**. My work centers on building structures — frameworks, simulators, languages, and educational tools — that make complex concepts tangible and reusable.
 
 I'm drawn to systems that **learn** (deep learning, reinforcement learning, LLM-based agents) and systems that **teach** (interactive platforms and simulators for computer architecture, digital logic, and robotics).
+
+---
+
+## Education
+
+- **Postgraduate Specialization in Software Architecture**
+- **B.Sc. in Computer Science**
 
 ---
 

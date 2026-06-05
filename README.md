@@ -19,9 +19,16 @@
 
 ## Sobre
 
-Bacharel em Computação, atuando na fronteira entre **Inteligência Artificial** e **Sistemas**. Meu trabalho concentra-se em construir estruturas — frameworks, simuladores, linguagens e ferramentas educacionais — que tornam conceitos complexos tangíveis e reutilizáveis.
+Bacharel em Computação e **especialista (pós-graduação) em Arquitetura de Software**, atuando na fronteira entre **Inteligência Artificial** e **Sistemas**. Meu trabalho concentra-se em construir estruturas — frameworks, simuladores, linguagens e ferramentas educacionais — que tornam conceitos complexos tangíveis e reutilizáveis.
 
 Interesso-me por sistemas que **aprendem** (deep learning, reinforcement learning, agentes baseados em LLM) e por sistemas que **ensinam** (plataformas e simuladores interativos de arquitetura de computadores, lógica digital e robótica).
+
+---
+
+## Formação
+
+- **Especialização (Pós-graduação) em Arquitetura de Software**
+- **Bacharelado em Computação**
 
 ---
 
